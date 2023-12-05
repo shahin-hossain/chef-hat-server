@@ -1,0 +1,242 @@
+[
+    {
+        "id": 100001,
+        "name": "Karim Al-Mansoori",
+        "photo": "https://img.freepik.com/premium-photo/smiling-male-chef-stands-against-background-kitchen-cafe_652240-4042.jpg",
+        "description": "Innovative chef known for his modern interpretations of traditional Middle Eastern dishes.",
+        "likes": 22000,
+        "experience": "18 years",
+        "recipes": [
+            {
+                "recipe_name": "Saffron-infused Chicken Biryani",
+                "ingredients": [
+                    "chicken",
+                    "basmati rice",
+                    "saffron",
+                    "spices"
+                ],
+                "instructions": "Create a fragrant chicken biryani with basmati rice, saffron, and a blend of aromatic spices."
+            },
+            {
+                "recipe_name": "Turmeric Hummus",
+                "ingredients": [
+                    "chickpeas",
+                    "tahini",
+                    "turmeric",
+                    "garlic"
+                ],
+                "instructions": "Blend chickpeas with tahini, turmeric, and garlic for a vibrant and flavorful hummus."
+            },
+            {
+                "recipe_name": "Cardamom-infused Rice Pudding",
+                "ingredients": [
+                    "rice",
+                    "milk",
+                    "cardamom",
+                    "sugar"
+                ],
+                "instructions": "Cook rice in milk with cardamom, sweeten with sugar, and serve as a delightful rice pudding."
+            }
+        ]
+    },
+    {
+        "id": 100002,
+        "name": "Ahmed Khoury",
+        "photo": "https://img.freepik.com/premium-photo/joyful-restaurant-chef-portrait-generative-ai_896194-3394.jpg",
+        "description": "Passionate chef known for his expertise in Middle Eastern street food delicacies.",
+        "likes": 18000,
+        "experience": "15 years",
+        "recipes": [
+            {
+                "recipe_name": "Shawarma Platter",
+                "ingredients": [
+                    "beef",
+                    "pita bread",
+                    "garlic sauce",
+                    "pickles"
+                ],
+                "instructions": "Prepare a mouthwatering shawarma platter with seasoned beef, pita bread, garlic sauce, and pickles."
+            },
+            {
+                "recipe_name": "Kebab Skewers",
+                "ingredients": [
+                    "ground lamb",
+                    "onions",
+                    "spices",
+                    "yogurt sauce"
+                ],
+                "instructions": "Shape ground lamb into kebabs with onions and spices, grill to perfection, and serve with yogurt sauce."
+            },
+            {
+                "recipe_name": "Fava Bean Falafel",
+                "ingredients": [
+                    "fava beans",
+                    "herbs",
+                    "garlic",
+                    "tahini"
+                ],
+                "instructions": "Make flavorful falafel using fava beans, herbs, and garlic, and serve with a drizzle of tahini sauce."
+            }
+        ]
+    },
+    {
+        "id": 100003,
+        "name": "Majid Ali",
+        "photo": "https://img.freepik.com/premium-photo/chef-kitchen-preparing-meals-chef-man-burns-food-professional-kitchen-generative-ai_260899-4507.jpg",
+        "description": "Renowned chef recognized for his dedication to preserving and revitalizing traditional Middle Eastern recipes.",
+        "likes": 25000,
+        "experience": "20 years",
+        "recipes": [
+            {
+                "recipe_name": "Maqluba",
+                "ingredients": [
+                    "chicken",
+                    "rice",
+                    "eggplant",
+                    "spices"
+                ],
+                "instructions": "Layer chicken, rice, and eggplant in a pot, cook until tender, and flip to reveal a stunning Maqluba."
+            },
+            {
+                "recipe_name": "Molokhia Soup",
+                "ingredients": [
+                    "molokhia leaves",
+                    "chicken broth",
+                    "garlic",
+                    "coriander"
+                ],
+                "instructions": "Simmer molokhia leaves in chicken broth with garlic and coriander for a traditional and comforting soup."
+            },
+            {
+                "recipe_name": "Date-filled Mamoul Cookies",
+                "ingredients": [
+                    "semolina",
+                    "dates",
+                    "clarified butter",
+                    "powdered sugar"
+                ],
+                "instructions": "Make delightful Mamoul cookies filled with sweet dates and dusted with powdered sugar."
+            }
+        ]
+    },
+    {
+        "id": 100004,
+        "name": "Omar Ibrahim",
+        "photo": "https://img.freepik.com/premium-photo/chef-cooking-restaurant-kitchen_25996-8009.jpg",
+        "description": "Innovative chef known for his experimental approach to Middle Eastern flavors.",
+        "likes": 20000,
+        "experience": "17 years",
+        "recipes": [
+            {
+                "recipe_name": "Za'atar Grilled Halloumi",
+                "ingredients": [
+                    "halloumi cheese",
+                    "za'atar",
+                    "olive oil",
+                    "lemon"
+                ],
+                "instructions": "Grill halloumi cheese with za'atar, drizzle with olive oil, and finish with a squeeze of lemon for a tasty appetizer."
+            },
+            {
+                "recipe_name": "Pomegranate Walnut Muhammara",
+                "ingredients": [
+                    "walnuts",
+                    "roasted red peppers",
+                    "pomegranate molasses",
+                    "olive oil"
+                ],
+                "instructions": "Blend walnuts, roasted red peppers, and pomegranate molasses for a flavorful and nutty Muhammara dip."
+            },
+            {
+                "recipe_name": "Chocolate and Orange Blossom Mousse",
+                "ingredients": [
+                    "chocolate",
+                    "heavy cream",
+                    "orange blossom water",
+                    "orange zest"
+                ],
+                "instructions": "Whip up a decadent chocolate mousse with a hint of orange blossom water and garnish with orange zest."
+            }
+        ]
+    },
+    {
+        "id": 100005,
+        "name": "Khalid Al-Hassan",
+        "photo": "https://img.freepik.com/premium-photo/chef-holding-plate-food-with-plate-food-front-him_662214-49766.jpg",
+        "description": "Culinary artist known for his visually stunning and sophisticated Middle Eastern dishes.",
+        "likes": 28000,
+        "experience": "23 years",
+        "recipes": [
+            {
+                "recipe_name": "Saffron Seafood Paella",
+                "ingredients": [
+                    "shrimp",
+                    "mussels",
+                    "calamari",
+                    "saffron-infused rice"
+                ],
+                "instructions": "Create a seafood paella with shrimp, mussels, calamari, and aromatic saffron-infused rice."
+            },
+            {
+                "recipe_name": "Eggplant and Labneh Towers",
+                "ingredients": [
+                    "eggplant",
+                    "labneh",
+                    "tomato compote",
+                    "microgreens"
+                ],
+                "instructions": "Stack layers of grilled eggplant, labneh, and tomato compote, garnish with microgreens for an elegant dish."
+            },
+            {
+                "recipe_name": "Rosewater Panna Cotta",
+                "ingredients": [
+                    "cream",
+                    "gelatin",
+                    "sugar",
+                    "rosewater"
+                ],
+                "instructions": "Prepare a silky panna cotta infused with the delicate flavor of rosewater, chilled to perfection."
+            }
+        ]
+    },
+    {
+        "id": 100006,
+        "name": "Khaled Abbas",
+        "photo": "https://img.freepik.com/premium-photo/chef-holding-plate-food-with-smile-it_662214-76373.jpg",
+        "description": "Passionate chef with expertise in Middle Eastern street food.",
+        "likes": 12000,
+        "experience": "12 years",
+        "recipes": [
+            {
+                "recipe_name": "Shawarma Wrap",
+                "ingredients": [
+                    "beef",
+                    "pita bread",
+                    "garlic sauce",
+                    "pickles"
+                ],
+                "instructions": "Prepare flavorful shawarma, stuff into pita with garlic sauce and pickles for a classic street food wrap."
+            },
+            {
+                "recipe_name": "Falafel Salad Bowl",
+                "ingredients": [
+                    "falafel",
+                    "lettuce",
+                    "tomatoes",
+                    "tahini dressing"
+                ],
+                "instructions": "Create a wholesome salad bowl with crispy falafel, fresh lettuce, tomatoes, and drizzle with tahini dressing."
+            },
+            {
+                "recipe_name": "Knafeh Rolls",
+                "ingredients": [
+                    "knafeh dough",
+                    "sweet cheese",
+                    "sugar syrup",
+                    "pistachios"
+                ],
+                "instructions": "Roll sweet cheese in knafeh dough, bake until golden, and drizzle with sugar syrup and crushed pistachios."
+            }
+        ]
+    }
+]
