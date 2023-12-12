@@ -1,8 +1,9 @@
 const express = require('express');
 const cors = require('cors');
 
-const chefs = require('./data/chefData.json')
-const recipe = require('./data/recipeData.json')
+const chefs = require('./data/chefData.json');
+const recipe = require('./data/recipeData.json');
+const blog = require('./data/blog.json');
 
 const app = express();
 const port = 5000;
@@ -28,7 +29,10 @@ app.get('/chef/:id', (req, res) => {
     const chef = chefs.find(chef => chef.id === parseInt(id));
     res.send(chef);
 })
-
+//blog data
+app.get('/blog', (req, res) => {
+    res.send(blog);
+})
 //port setup
 app.listen(port, () => {
     console.log(`chef-hut server port is ${port}`)
