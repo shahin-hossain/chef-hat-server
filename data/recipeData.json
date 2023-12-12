@@ -1,0 +1,72 @@
+[
+    {
+        "id": "ABC123",
+        "title": "Kabsa",
+        "description": "A flavorful rice dish with meat, vegetables, and aromatic spices, widely enjoyed across the Arab world.",
+        "region": "Arabian Peninsula",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kabsa.jpg/1200px-Kabsa.jpg"
+    },
+    {
+        "id": "DEF456",
+        "title": "Hummus",
+        "description": "A classic dip made from chickpeas, tahini, garlic, and lemon, served with pita bread or as a side dish.",
+        "region": "Middle East",
+        "image": "https://www.inspiredtaste.net/wp-content/uploads/2019/07/The-Best-Homemade-Hummus-Recipe-1200.jpg"
+    },
+    {
+        "id": "GHI789",
+        "title": "Falafel",
+        "description": "Deep-fried chickpea or fava bean patties, often served in pita bread with tahini sauce and vegetables.",
+        "region": "Levant",
+        "image": "https://toriavey.com/images/2011/01/TOA109_18-1.jpeg"
+    },
+    {
+        "id": "JKL012",
+        "title": "Shawarma",
+        "description": "Marinated and slow-cooked meat (usually lamb, chicken, or beef) served in a flatbread wrap with garlic sauce.",
+        "region": "Middle East",
+        "image": "https://b3067249.smushcdn.com/3067249/wp-content/uploads/2022/07/Shawarma-848x477.jpg?lossy=0&strip=1&webp=1"
+    },
+    {
+        "id": "MNO345",
+        "title": "Mansaf",
+        "description": "A traditional Jordanian dish featuring lamb cooked in a yogurt-based sauce, served with rice and topped with nuts.",
+        "region": "Jordan",
+        "image": "https://www.sajway.com/blog/wp-content/uploads/2021/03/Jordanian-Mansaf.jpg"
+    },
+    {
+        "id": "PQR678",
+        "title": "Tabbouleh",
+        "description": "A refreshing salad made with finely chopped parsley, tomatoes, mint, onion, and soaked bulgur, dressed in olive oil and lemon juice.",
+        "region": "Levant",
+        "image": "https://static01.nyt.com/images/2023/05/25/multimedia/MRS-Lebanese-Tabbouleh-wzpk/MRS-Lebanese-Tabbouleh-wzpk-superJumbo.jpg"
+    },
+    {
+        "id": "STU901",
+        "title": "Baba Ganoush",
+        "description": "Roasted eggplant dip blended with tahini, garlic, and lemon juice, often served with pita bread or as a side dish.",
+        "region": "Middle East",
+        "image": "https://falasteenifoodie.com/wp-content/uploads/2023/02/baba-ghanoush-2.jpeg"
+    },
+    {
+        "id": "VWX234",
+        "title": "Mandi",
+        "description": "A traditional rice and meat dish, typically featuring spiced and roasted meat served over fragrant basmati rice.",
+        "region": "Yemen",
+        "image": "https://content.jdmagicbox.com/comp/hyderabad/z8/040pxx40.xx40.210210163529.s3z8/catalogue/festine-9-mandi-trimulgherry-hyderabad-mandi-restaurants-4txva3a3c0.jpg"
+    },
+    {
+        "id": "YZA567",
+        "title": "Kunafa",
+        "description": "A delectable dessert made with thin noodle-like pastry soaked in sugar syrup, layered with cheese or nuts.",
+        "region": "Middle East",
+        "image": "https://imagevars.gulfnews.com/2015/6/25/1_16a0839205b.1540955_504262261_16a0839205b_medium.jpg"
+    },
+    {
+        "id": "BCD890",
+        "title": "Fattoush",
+        "description": "A colorful salad made with mixed greens, tomatoes, radishes, cucumbers, and crispy pieces of flatbread, dressed in a tangy vinaigrette.",
+        "region": "Levant",
+        "image": "https://whatsgabycooking.com/wp-content/uploads/2022/07/WGC-Summer-Stone-Fruit-Fattoush-2-copy-500x375.jpg"
+    }
+]

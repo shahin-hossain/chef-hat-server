@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 
 const chefs = require('./data/chefData.json')
+const recipe = require('./data/recipeData.json')
 
 const app = express();
 const port = 5000;
@@ -15,6 +16,10 @@ app.get('/', (req, res) => {
 //chef data
 app.get('/chefs', (req, res) => {
     res.send(chefs);
+})
+//recipe data
+app.get('/recipe', (req, res) => {
+    res.send(recipe)
 })
 
 //chef data id wise
